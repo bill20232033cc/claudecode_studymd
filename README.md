@@ -1,2 +1,0 @@
-# claudecode_studymd
-claudecode_studymd202603
